@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/31590252/README.md)
+[README.md](https://github.com/user-attachments/files/31590882/README.md)
 # Sales Performance Dashboard — Power BI (TSQLV4)
 
 An interactive Power BI dashboard built on the **TSQLV4** sample database (Itzik Ben-Gan's well-known SQL Server training dataset), analyzing sales performance, customer behavior, product categories, and geographic distribution across 5 report pages.
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ## Data Model
 
@@ -32,14 +32,14 @@ Data is imported directly from SQL Server (`Sales`, `HR`, `Production` schemas) 
 4. **Top 10 Customers** — Ranked customers by sales (pie, bar, table).
 5. **Geography** — Map and country-level sales breakdown with `Country Sales %`.
 
-![Top 10 Customers](screenshots/top10-customers.png)
+![Top 10 Customers](top10-customers.png)
 
-![Geography](screenshots/geography.png)
+![Geography](geography.png)
 
 ## Files
 
 - `PROJECT.pbix` — full Power BI report (open in Power BI Desktop)
-- `screenshots/` — page previews
+- `` — page previews
 
 ## How to Explore
 
